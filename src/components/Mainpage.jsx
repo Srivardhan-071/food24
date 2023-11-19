@@ -12,23 +12,39 @@ function Mainpage() {
                 <p className="sub-heading"></p>
                 <div className="flex">
                     <Link to="/breakfast">
-                        <div className="res-item">
-                            <h2>Breakfast</h2>
+                        <div className="col-sm-12 mb-3 mb-sm-0">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title p-5">Breakfast</h5>
+                                </div>
+                            </div>
                         </div>
                     </Link>
                     <Link to="/lunch">
-                        <div className="res-item">
-                            <h2>Lunch</h2>
+                        <div className="col-sm-12 mb-3 mb-sm-0">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title p-5">Lunch</h5>
+                                </div>
+                            </div>
                         </div>
                     </Link>
                     <Link to="/sanck">
-                        <div className="res-item">
-                            <h2>Snacks</h2>
+                        <div className="col-sm-12 mb-3 mb-sm-0">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title p-5">Snacks</h5>
+                                </div>
+                            </div>
                         </div>
                     </Link>
                     <Link to="/dinner">
-                        <div className="res-item">
-                            <h2>Dinner</h2>
+                        <div className=" col-sm-12 mb- mb-sm-0">
+                            <div className="card">
+                                <div className="card-body">
+                                    <h5 className="card-title p-5">Dinner</h5>
+                                </div>
+                            </div>
                         </div>
                     </Link>
                 </div>
