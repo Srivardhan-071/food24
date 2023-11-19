@@ -21,7 +21,7 @@ export default function Navbar() {
                                 <ul className="dropdown-menu">
                                     <li><Link to="/breakfast" className="dropdown-item">Breakfast</Link></li>
                                     <li><Link to="/lunch" className="dropdown-item">Lunch</Link></li>
-                                    <li><Link to="/snacks" className="dropdown-item">Snaks</Link></li>
+                                    <li><Link to="/snacks" className="dropdown-item">Snacks</Link></li>
                                     <li><Link to="/dinner" className="dropdown-item">Dinner</Link></li>
                                 </ul>
                             </li>

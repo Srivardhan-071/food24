@@ -12,37 +12,37 @@ function Mainpage() {
                 <p className="sub-heading"></p>
                 <div className="flex">
                     <Link to="/breakfast">
-                        <div className="col-sm-12 mb-3 mb-sm-0">
-                            <div className="card">
-                                <div className="card-body">
-                                    <h5 className="card-title p-5">Breakfast</h5>
+                        <div class="col-sm-12 mb-3 mb-sm-0">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title p-5">Breakfast</h5>
                                 </div>
                             </div>
                         </div>
                     </Link>
                     <Link to="/lunch">
-                        <div className="col-sm-12 mb-3 mb-sm-0">
-                            <div className="card">
-                                <div className="card-body">
-                                    <h5 className="card-title p-5">Lunch</h5>
+                        <div class="col-sm-12 mb-3 mb-sm-0">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title p-5">Lunch</h5>
                                 </div>
                             </div>
                         </div>
                     </Link>
-                    <Link to="/sanck">
-                        <div className="col-sm-12 mb-3 mb-sm-0">
-                            <div className="card">
-                                <div className="card-body">
-                                    <h5 className="card-title p-5">Snacks</h5>
+                    <Link to="/snacks">
+                        <div class="col-sm-12 mb-3 mb-sm-0">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title p-5">Snacks</h5>
                                 </div>
                             </div>
                         </div>
                     </Link>
                     <Link to="/dinner">
-                        <div className=" col-sm-12 mb- mb-sm-0">
-                            <div className="card">
-                                <div className="card-body">
-                                    <h5 className="card-title p-5">Dinner</h5>
+                        <div class="col-sm-12 mb-3 mb-sm-0">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title p-5">Dinner</h5>
                                 </div>
                             </div>
                         </div>
